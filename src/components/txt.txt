@@ -1,0 +1,1 @@
+Para crear un formulario de registro, necesitarás agregar algunos campos adicionales al formulario existente. Aquí hay un ejemplo de cómo podrías modificar el código para agregar campos de nombre y confirmación de contraseña:
